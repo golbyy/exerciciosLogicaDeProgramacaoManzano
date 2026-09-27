@@ -57,7 +57,3 @@ Os algoritmos foram agrupados de acordo com a lista e a estrutura de controle tr
 * Contadores e acumuladores
 * Cálculo de fatorial e sequências numéricas, como Fibonacci e potências
 * Operadores relacionais (`>`, `<`, `=`, `<>`) e lógicos (`e`, `ou`, `nao`)
-
-## Autor
-
-Gabriel Franco Ferreira
